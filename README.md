@@ -1,7 +1,7 @@
 ![obraz](https://user-images.githubusercontent.com/91827782/154970055-b5efe2ac-b94e-4665-9e20-9a80f040c86a.png)
 
 
-##**1	Design assumptions
+#1	Design assumptions
 
 1.	Microcontroller STM32f303k8t6 is a processing unit
 2.	Microcontroller is power supplied from PC via USB
@@ -13,9 +13,9 @@
 8.	Filtered Euler angles values are visualized on the chart
 9.	Sampling rate is 100 Hz
 
-##**2	Components used in project
+#2	Components used in project
 
-#**2.1	Microcontroller STM32 NUCLEO-F303K8T6
+##2.1	Microcontroller STM32 NUCLEO-F303K8T6
 
 -	STM32F303K8T6 in LQFP32 package 
 -	ARM®32-bit Cortex®-M4 CPU with FPU 
@@ -39,7 +39,7 @@
 
 podpis
 
-#**2.2	Inertial measurement unit IMU 10DoF (MPU9255+BMP280)
+##2.2	Inertial measurement unit IMU 10DoF (MPU9255+BMP280)
 
 -	Accelerometer, gyroscope, magnetometer
 -	VDD: od 3,3 V do 5,5 V
@@ -51,7 +51,7 @@ podpis
 
 podpis
 
-##**3	Preliminary draft
+#3	Preliminary draft
 
 Main task of prototype AHRS device is to calculate Euler angles and visualize them in .Net application. IMU collects data about acceleration, magnetic heading and angular velocity in 3 axes. Data are send to MCU via I2C serial communication bus. MCU sends calculated data via UART to .Net application. Application designed in .Net framework visualize Euler angles on the chart.
 
