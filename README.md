@@ -39,7 +39,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
 </p>
-<center>Figure 1 Microcontroller STM32 F303k8T6</center>
+<p align="center">
+  Figure 1 Microcontroller STM32 F303k8T6
+</p>
 
 
 ## 2.2	Inertial measurement unit IMU 10DoF (MPU9255+BMP280)
@@ -52,7 +54,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91827782/154970284-3146150a-2c28-4735-99d1-7e5ca36c7ad4.png">
 </p>
-<center>Figure 2 IMU 10DoF</center>
+<p align="center">
+Figure 2 IMU 10DoF
+</p>
 
 # 3	Preliminary draft
 
@@ -61,5 +65,7 @@ Main task of prototype AHRS device is to calculate Euler angles and visualize th
   <p align="center">
   <img src="https://user-images.githubusercontent.com/91827782/154970343-1bf130db-adfc-4af2-8ead-ccda8c1183cf.png">
 </p>
-<center>Figure 3 Visualization of prototype</center>
+<p align="center">
+Figure 3 Visualization of prototype
+</p>
 
