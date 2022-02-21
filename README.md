@@ -37,7 +37,7 @@
 •	GPIO (25) with external interrupt capability 
 •	RTC 
 
-                            ![obraz](https://user-images.githubusercontent.com/91827782/154955549-f95df8dc-593b-47d5-a134-72f34a29cfaf.png)
+![obraz](https://user-images.githubusercontent.com/91827782/154955549-f95df8dc-593b-47d5-a134-72f34a29cfaf.png)
 
  
                                                                    Figure 1 Microcontroller STM32 F303k8T6
@@ -52,12 +52,12 @@
 •	Dimensions: 31 x 17 mm
 
 
-                            ![obraz](https://user-images.githubusercontent.com/91827782/154955584-cce840ca-2dab-4ddb-8014-c7d3e2ee9efe.png)
+![obraz](https://user-images.githubusercontent.com/91827782/154955584-cce840ca-2dab-4ddb-8014-c7d3e2ee9efe.png)
 
                                                                    Figure 2 IMU 10DoF
 
 
-                            ![obraz](https://user-images.githubusercontent.com/91827782/154955612-5633f864-010b-4047-b7f0-4c8a6f15472b.png)
+
  
 3	Preliminary draft
 
@@ -65,8 +65,8 @@ Main task of prototype AHRS device is to calculate Euler angles and visualize th
 
 
 
- 
-Figure 3 Visualization of prototype
+![obraz](https://user-images.githubusercontent.com/91827782/154955612-5633f864-010b-4047-b7f0-4c8a6f15472b.png)
+                                                                  Figure 3 Visualization of prototype
 
 
  
