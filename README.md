@@ -34,7 +34,8 @@
 -	12-bit DAC (2), 3 channels 
 -	GPIO (25) with external interrupt capability 
 -	RTC 
--	
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
 </p>
@@ -53,7 +54,7 @@ podpis
   <img src="https://user-images.githubusercontent.com/91827782/154970284-3146150a-2c28-4735-99d1-7e5ca36c7ad4.png">
 </p>
 
-podpis
+<center>Centered text</Figure 1>
 
 # 3	Preliminary draft
 
