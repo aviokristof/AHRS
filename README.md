@@ -34,8 +34,9 @@
 -	12-bit DAC (2), 3 channels 
 -	GPIO (25) with external interrupt capability 
 -	RTC 
+-	
 <p align="center">
-  <src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
+  <img src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
 </p>
 
 
@@ -49,7 +50,7 @@ podpis
 -	3 axes: X, Y, Z
 -	Dimensions: 31 x 17 mm
 <p align="center">
-  <src="https://user-images.githubusercontent.com/91827782/154970284-3146150a-2c28-4735-99d1-7e5ca36c7ad4.png">
+  <img src="https://user-images.githubusercontent.com/91827782/154970284-3146150a-2c28-4735-99d1-7e5ca36c7ad4.png">
 </p>
 
 podpis
@@ -59,7 +60,7 @@ podpis
 Main task of prototype AHRS device is to calculate Euler angles and visualize them in .Net application. IMU collects data about acceleration, magnetic heading and angular velocity in 3 axes. Data are send to MCU via I2C serial communication bus. MCU sends calculated data via UART to .Net application. Application designed in .Net framework visualize Euler angles on the chart.
 
   <p align="center">
-  <src="https://user-images.githubusercontent.com/91827782/154970343-1bf130db-adfc-4af2-8ead-ccda8c1183cf.png">
+  <img src="https://user-images.githubusercontent.com/91827782/154970343-1bf130db-adfc-4af2-8ead-ccda8c1183cf.png">
 </p>
 
 podpis
