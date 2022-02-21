@@ -35,8 +35,10 @@
 -	GPIO (25) with external interrupt capability 
 -	RTC 
 <p align="center">
-![obraz](https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
 </p>
+
+
 podpis
 
 ## 2.2	Inertial measurement unit IMU 10DoF (MPU9255+BMP280)
