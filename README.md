@@ -37,8 +37,8 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
-   Figure 1 Microcontroller STM32 F303k8T6
+<img src="https://user-images.githubusercontent.com/91827782/154970187-4d8d2fcc-7e6d-4798-a5ae-c0bde61e8bf1.png">
+Figure 1 Microcontroller STM32 F303k8T6
 </p>
 
 
