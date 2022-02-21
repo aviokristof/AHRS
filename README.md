@@ -11,7 +11,7 @@
 6.	Designed complementary filter in Matlab simulink
 7.	Designed application in .NET framework calculates Euler’s angles from data send from microcontroller and filters data using complementary filter
 8.	Filtered Euler angles values are visualized on the chart
-9.	Sampling rate is 100 Hz
+9.	Sampling rate: 100 Hz
 
 # 2	Components used in project
 
