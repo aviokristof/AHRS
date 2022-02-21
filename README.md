@@ -53,6 +53,7 @@
 -	Dimensions: 31 x 17 mm
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91827782/154970284-3146150a-2c28-4735-99d1-7e5ca36c7ad4.png">
+<Figure 2 IMU 10DoF>
 </p>
 <p align="center">
 Figure 2 IMU 10DoF
