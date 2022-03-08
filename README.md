@@ -70,3 +70,13 @@ Main task of prototype AHRS device is to calculate Euler angles and visualize th
 Figure 3 Visualization of prototype
 </p>
 
+# 4	Results
+
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/91827782/157290908-1c4eaced-df3a-4a9e-9c87-76547366015d.jpg">
+</p>
+<p align="center">
+
+Figure 4 Theta
+</p>
+
