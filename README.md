@@ -79,3 +79,4 @@ Figure 3 Visualization of prototype
 Figure 4 Theta
 </p>
 
+In "Figure 4 Theta" chart number 1 visualize filtered values of theta angles in time. Chart number 2 visualize not filtered values of theta angles in time. The difference showed in those charts represents implementation of Kalman Filter used in code. 
