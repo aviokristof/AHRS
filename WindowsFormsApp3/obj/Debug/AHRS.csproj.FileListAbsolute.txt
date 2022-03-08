@@ -1,0 +1,9 @@
+C:\Users\krzys\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\krzys\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\krzys\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\krzys\source\repos\WindowsFormsApp3\obj\Debug\AHRS.csprojAssemblyReference.cache
+C:\Users\krzys\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\krzys\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\krzys\source\repos\WindowsFormsApp3\obj\Debug\AHRS.csproj.GenerateResource.cache
+C:\Users\krzys\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\krzys\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
